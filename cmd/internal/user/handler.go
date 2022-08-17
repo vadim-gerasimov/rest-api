@@ -1,9 +1,9 @@
 package user
 
 import (
-	"cmd/internal/handlers"
-	"cmd/pkg/logging"
 	"net/http"
+	"rest-api/cmd/internal/handlers"
+	"rest-api/cmd/pkg/logging"
 
 	"github.com/julienschmidt/httprouter"
 )

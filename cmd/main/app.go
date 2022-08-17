@@ -1,10 +1,10 @@
 package main
 
 import (
-	"cmd/internal/user"
-	"cmd/pkg/logging"
 	"net"
 	"net/http"
+	"rest-api/cmd/internal/user"
+	"rest-api/cmd/pkg/logging"
 	"time"
 
 	"github.com/julienschmidt/httprouter"
